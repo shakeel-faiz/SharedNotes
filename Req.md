@@ -47,7 +47,7 @@ We want the agent to:
 1. Scan all blog-post folders
 2. Read each `index.md`
 3. Translate it into the target languages
-4. Create files like in the same blog-post-directory:
+4. Create files like in the same blog-post-directory. [Please check this](https://github.com/OpenizePtyLtd/blog.fileformat.com/tree/main/content/Fileformat.Blog/2025-12-01-xlsx-vs-ods-vs-fods-the-ultimate-open-format-showdown):
 
 ```
 index.ar.md
