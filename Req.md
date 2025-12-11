@@ -33,6 +33,8 @@ Our blog has this structure:
         index.md
     2025-06-23-what-is-the-difference-between-pdf-and-fdf\
         index.md
+    2025-06-25-how-do-i-convert-a-pdf-to-fdf\
+        index.md
     ...
 ```
 
@@ -58,15 +60,10 @@ index.fr.md
 
 Do you recommend that:
 
-1. **We create our own custom agent** using your agent code as a reference?
+1. **We create our own custom agent** using your agent code as a reference or idea?
 
 **OR**
 
-2. **Your existing agent is modified** to support our folder structure, and we simply use your agent as the client/application?
+2. Your existing running agent app be modified to support our folder structure, and we can simply use your agent as the client. We will become the client of the app in metrics API calls.
 
-Whichever option is easier and safer, I am happy to follow.
 I just need your guidance so we move in the right direction.
-
----
-
-If you want, I can also prepare a **more polite**, **more formal**, or **shorter** version.
