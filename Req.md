@@ -47,7 +47,7 @@ We want the agent to:
 1. Scan all blog-post folders
 2. Read each `index.md`
 3. Translate it into the target languages
-4. Create files like:
+4. Create files like in the same blog-post-directory:
 
 ```
 index.ar.md
