@@ -25,7 +25,7 @@ and it generates output files like:
 
 ### **Our folder structure is different**
 
-Our blog has this structure:
+Our blog has [this structure](https://github.com/OpenizePtyLtd/blog.fileformat.com/tree/main/content/Fileformat.Blog):
 
 ```
 \blog.fileformat.com\content\Fileformat.Blog\
