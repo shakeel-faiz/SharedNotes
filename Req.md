@@ -40,6 +40,8 @@ Our blog has [this structure](https://github.com/OpenizePtyLtd/blog.fileformat.c
 
 Inside each folder, there is one `index.md`.
 
+This index.md file is the english version which we translate to different languges. [Please check this](https://github.com/OpenizePtyLtd/blog.fileformat.com/tree/main/content/Fileformat.Blog/2025-03-21-the-best-xml-parsers).
+
 We want the agent to:
 
 1. Scan all blog-post folders
